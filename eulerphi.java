@@ -3,6 +3,7 @@ package may23;
 
 public class Eulerphi {
 	
+	
 	static int gcd(int a, int b)
 	{
 		    if(a==0)
