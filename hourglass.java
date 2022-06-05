@@ -1,6 +1,7 @@
 package may14;
 
 public class Hourglass {
+	
 
 	static int R = 5;
 	static int C = 5;
