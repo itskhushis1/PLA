@@ -2,6 +2,7 @@ package may23;
 
 public class Lexipalindrome {
 
+	
 	static char MAX_CHAR = 26;
 	  
 
