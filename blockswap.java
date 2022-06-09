@@ -12,6 +12,7 @@ public class Blockswap {
 				arr[b+i]=temp;
 			   }			
 			}
+	
 		
 		public static void swapRotate(int arr[], int r )
 		{ 
