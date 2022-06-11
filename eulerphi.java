@@ -1,6 +1,5 @@
 package may23;
 
-
 public class Eulerphi {
 	
 	
