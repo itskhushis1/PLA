@@ -6,6 +6,7 @@ public class addarr {
         int[] arr = new int [n];
         for (int i = 0; i < n ; i++)
               arr[i] = i;
+		
         
 
       // Calculate sum in O(n) time
