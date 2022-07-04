@@ -2,7 +2,6 @@ package may14;
 
 public class Euclid {
     
-	
 	public static int euclid(int x, int y)
 	{
 		if(x==0||y==0)
