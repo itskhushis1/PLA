@@ -1,7 +1,6 @@
 package may14;
 
 import java.util.Scanner;
-
 public class Blockswap {
 		public static void swap(int arr[], int a , int b , int r)
 		{
