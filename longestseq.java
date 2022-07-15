@@ -2,7 +2,6 @@ package may14;
 
 public class Longestseq {
 
-	 
 	    static int flipBit(int a)
 	    {
 	        if (~a == 0)
